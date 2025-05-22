@@ -1,0 +1,20 @@
+[project]
+name = "mini-projeto-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "great-tables>=0.17.0",
+    "joblib>=1.5.0",
+    "kagglehub>=0.3.12",
+    "matplotlib>=3.10.3",
+    "nltk>=3.9.1",
+    "numpy>=2.2.6",
+    "pandas>=2.2.3",
+    "plotly>=6.1.1",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.45.1",
+    "torch>=2.7.0",
+]
